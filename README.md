@@ -1,1 +1,2 @@
 # odin-recipes
+This portfolio project is part of the HTML basics course on The Odin Project. I will demonstrate basic HTML skills such as writing a boilerplate, lists, heading, anchors, adding images and formatting text. 
